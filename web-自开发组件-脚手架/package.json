@@ -1,0 +1,22 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "axios": "^1.11.0",
+    "echarts": "^6.0.0",
+    "glob": "^10.3.4",
+    "less": "^4.2.0",
+    "rollup-plugin-visualizer": "^5.9.2",
+    "vant": "^4.6.6",
+    "vite": "^4.4.5",
+    "vite-plugin-css-injected-by-js": "^3.3.0",
+    "vite-plugin-externals": "^0.6.2"
+  }
+}

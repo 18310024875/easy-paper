@@ -1,0 +1,1 @@
+export { default } from './msp-search-and-table.vue'
