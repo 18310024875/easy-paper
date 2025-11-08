@@ -1,4 +1,5 @@
 const mongoose = require('mongoose')
+// 本地mac启动 sudo mongod --fork --dbpath data --logpath log/mongo.log --logappend
 const mdb_url = 'mongodb://127.0.0.1:27017/SELF_DB'
 
 module.exports = function (cb) {
